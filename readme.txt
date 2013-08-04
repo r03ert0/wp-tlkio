@@ -4,7 +4,7 @@ Donate link:
 Tags: chat, tlk.io
 Requires at least: 2.8
 Tested up to: 3.6
-Stable tag: 0.1
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,4 +43,4 @@ A plugin to integrate [tlk.io chat](http://tlk.io) on any page of your website. 
 
 == Upgrade notice ==
 
-0.1 Initial versionon
+0.1 Initial version
